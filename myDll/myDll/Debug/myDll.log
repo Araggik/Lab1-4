@@ -1,0 +1,9 @@
+﻿  myDll.cpp
+     Создается библиотека C:\Users\vladi\Desktop\myDll\Debug\myDll.lib и объект C:\Users\vladi\Desktop\myDll\Debug\myDll.exp
+myDll.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__FreeImage_Load@12 в функции "char const * __cdecl load_image(char const *,int &,int &,int)" (?load_image@@YAPBDPBDAAH1H@Z)
+myDll.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__FreeImage_GetBits@4 в функции "char const * __cdecl load_image(char const *,int &,int &,int)" (?load_image@@YAPBDPBDAAH1H@Z)
+myDll.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__FreeImage_GetWidth@4 в функции "char const * __cdecl load_image(char const *,int &,int &,int)" (?load_image@@YAPBDPBDAAH1H@Z)
+myDll.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__FreeImage_GetHeight@4 в функции "char const * __cdecl load_image(char const *,int &,int &,int)" (?load_image@@YAPBDPBDAAH1H@Z)
+FreeImage.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+bib\FreeImage.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\Users\vladi\Desktop\myDll\Debug\myDll.dll : fatal error LNK1120: неразрешенных внешних элементов: 4

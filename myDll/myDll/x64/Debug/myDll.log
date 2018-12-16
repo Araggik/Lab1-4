@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  myDll.cpp
+  dllmain.cpp
+  Создание кода...
+     Создается библиотека C:\Users\vladi\Desktop\ConsoleApplication4 — копия\x64\Debug\myDll.lib и объект C:\Users\vladi\Desktop\ConsoleApplication4 — копия\x64\Debug\myDll.exp
+  myDll.vcxproj -> C:\Users\vladi\Desktop\ConsoleApplication4 — копия\x64\Debug\myDll.dll
